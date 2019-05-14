@@ -580,7 +580,7 @@ GENERAL STYLES
 /* line 37, ../scss/breakpoints/_768up.scss */
 .mainnav li a {
   line-height: 92px;
-  padding: 0 2vw;
+  padding: 0 1vw;
 }
 
 /*********************
@@ -634,6 +634,7 @@ NAVIGATION STYLES
 /* line 84, ../scss/breakpoints/_768up.scss */
 .nav li a {
   font-size: 0.9em;
+  /* margin: 0 0 0 2vw;*/
   font-weight: 500;
   /*
   you can use hover styles here even though this size
