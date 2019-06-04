@@ -460,7 +460,7 @@ div#logo {
 /* line 51, ../scss/breakpoints/_481up.scss */
 nav.mainnav {
   width: 100%;
-  text-align: center;
+  text-align: right;
 }
 
 /* line 56, ../scss/breakpoints/_481up.scss */
